@@ -1,0 +1,1 @@
+# fastapi-checksum-lab
